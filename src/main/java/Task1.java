@@ -1,6 +1,6 @@
 public class Task1 {
 // Fetch the repo from the remote
-// Create a new called May13
+// Create a new branch called May13
 // Checkout to that branch
 // Under java package create a new java class named "TC101New and make a commit with a message "Task1-1"
 // Create a main method in it and build a print statement that outputs "Peace be with you"
